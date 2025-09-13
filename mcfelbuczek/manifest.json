@@ -1,0 +1,17 @@
+{
+  "name": "mcfel2.0",
+  "short_name": "mcfel",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "index.html",
+  "icons": [
+    {
+      "src": "iio.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
