@@ -6,7 +6,7 @@ body {
 
 header {
     position: sticky;
-    top: -1;
+    top: 0;
     left: 0;
     width: 100%;
     z-index: 9999;
@@ -76,6 +76,7 @@ main {
     position: relative;
     margin: 10px;
     width: 65%;
+    scroll-margin-top: 80px;
 }
 #praw p:not(.sub){
     font-size: 15px;
