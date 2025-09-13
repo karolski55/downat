@@ -93,8 +93,8 @@ main {
 }
 #praw br{
     content: "";
-    margin: 3em;
-    display: block;
+    margin: 2em;
+    display: none;
     font-size: 24%;
 }
 #bottom{
