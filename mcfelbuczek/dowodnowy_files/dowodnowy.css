@@ -79,10 +79,11 @@ main {
     scroll-margin-top: -100px;
 }
 #praw p:not(.sub){
+    margin-bottom: 0px; /* lub nawet 0 */
     font-size: 15px;
     color: #1d1d1d;
     font-weight: 500;
-    margin-bottom: 4px; /* lub nawet 0 */
+    
 }
 
 
@@ -92,10 +93,12 @@ main {
     font-weight: 500;
 }
 #praw br{
+    margin-bottom: 0;
     content: "";
     margin: 2em;
     display: none;
     font-size: 24%;
+    margin-bottom: 0;
 }
 #bottom{
     position: relative;
