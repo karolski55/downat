@@ -80,8 +80,11 @@ main {
 #praw p:not(.sub){
     font-size: 15px;
     color: #1d1d1d;
-    font-weight: 600;
+    font-weight: 500;
+    margin-bottom: 4px; /* lub nawet 0 */
 }
+
+
 #praw .sub{
     font-size: 12px;
     color: #4a4a4a;
