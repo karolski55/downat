@@ -74,7 +74,7 @@ main {
 }
 #praw{
     position: relative;
-    margin: 20px;
+    margin: 10px;
     width: 65%;
 }
 #praw p:not(.sub){
